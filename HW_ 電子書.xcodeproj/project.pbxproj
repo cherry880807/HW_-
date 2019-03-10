@@ -12,6 +12,8 @@
 		55E47834223503F30076EEC0 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55E47832223503F30076EEC0 /* Main.storyboard */; };
 		55E47836223503F50076EEC0 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 55E47835223503F50076EEC0 /* Assets.xcassets */; };
 		55E47839223503F50076EEC0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 55E47837223503F50076EEC0 /* LaunchScreen.storyboard */; };
+		55E4784222352ED40076EEC0 /* noun_Microwave Oven_2243.png in Resources */ = {isa = PBXBuildFile; fileRef = 55E4784022352ED40076EEC0 /* noun_Microwave Oven_2243.png */; };
+		55E4784322352ED40076EEC0 /* noun_Cookbook_51422.png in Resources */ = {isa = PBXBuildFile; fileRef = 55E4784122352ED40076EEC0 /* noun_Cookbook_51422.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +24,8 @@
 		55E47835223503F50076EEC0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		55E47838223503F50076EEC0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		55E4783A223503F50076EEC0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		55E4784022352ED40076EEC0 /* noun_Microwave Oven_2243.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "noun_Microwave Oven_2243.png"; sourceTree = "<group>"; };
+		55E4784122352ED40076EEC0 /* noun_Cookbook_51422.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = noun_Cookbook_51422.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +64,8 @@
 				55E47835223503F50076EEC0 /* Assets.xcassets */,
 				55E47837223503F50076EEC0 /* LaunchScreen.storyboard */,
 				55E4783A223503F50076EEC0 /* Info.plist */,
+				55E4784122352ED40076EEC0 /* noun_Cookbook_51422.png */,
+				55E4784022352ED40076EEC0 /* noun_Microwave Oven_2243.png */,
 			);
 			path = "HW_ 電子書";
 			sourceTree = "<group>";
@@ -123,6 +129,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				55E47839223503F50076EEC0 /* LaunchScreen.storyboard in Resources */,
+				55E4784222352ED40076EEC0 /* noun_Microwave Oven_2243.png in Resources */,
+				55E4784322352ED40076EEC0 /* noun_Cookbook_51422.png in Resources */,
 				55E47836223503F50076EEC0 /* Assets.xcassets in Resources */,
 				55E47834223503F30076EEC0 /* Main.storyboard in Resources */,
 			);
